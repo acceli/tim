@@ -9,7 +9,7 @@
 
 1. 重命名 `tim.py` 为 `tim`
 2. 赋予可执行权限 `chmod +x tim`
-3. 移动到bin目录 `sudo mv /usr/local/bin/`
+3. 移动到bin目录 `sudo mv tim /usr/local/bin/`
 4. 输入 `tim` 进行愉快的记录！
 
 #### 功能介绍
